@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SSHAplicacion.MonitorDeLuz">
+    <StackLayout  HorizontalOptions="FillAndExpand"
+        VerticalOptions="FillAndExpand"
+                  Orientation="Vertical"
+                 >
+        
+        <Grid BackgroundColor="White"
+              VerticalOptions="FillAndExpand"
+              HorizontalOptions="FillAndExpand">
+                <Grid.RowDefinitions>
+                    <RowDefinition
+                    Height="AUTO"></RowDefinition>
+                    <RowDefinition
+                    Height="AUTO"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition
+                    Width="AUTO"></ColumnDefinition>
+                    <ColumnDefinition
+                    Width="AUTO"></ColumnDefinition>
+                    <ColumnDefinition
+                    Width="AUTO"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Image
+                x:Name="F1"
+                Source="focoOFF.png"
+                Grid.Row="1"
+                Grid.Column="1"/>
+                <Image
+                    x:Name="F2"
+                 Source="focoOFF.png"
+                 Grid.Row="2"
+                 Grid.Column="1"
+                    />
+            <Label
+                x:Name="lb1"
+                    HorizontalTextAlignment="Center"
+                    Text="Foco 1:"
+                            
+                    FontSize="Large"
+                    Grid.Row="1"
+                    Grid.Column="2"
+                    />
+           
+            <Switch
+                    x:Name="SF1"
+                    Grid.Row="1"
+                    Grid.Column="3"
+                Toggled="SF1_Toggled"
+                    />
+                <Switch
+                    x:Name="SF2"
+                    Grid.Row="2"
+                    Grid.Column="3"
+                    Toggled="SF2_Toggled"
+                    />
+            <Label
+                    HorizontalTextAlignment="Center"
+                VerticalTextAlignment="Center"
+                x:Name="lb2"
+                    Text="Foco 2:"
+                    FontSize="Large"
+                    Grid.Row="2"
+                    Grid.Column="2"
+                    />
+        </Grid>
+        </StackLayout>
+</ContentPage>
