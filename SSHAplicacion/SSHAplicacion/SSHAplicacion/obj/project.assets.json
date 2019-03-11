@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cesar-PC\\Desktop\\GIT\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\Cesar-PC\\source\\repos\\cesar12p\\SSHApp\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.csproj",
       "projectName": "SSHAplicacion",
-      "projectPath": "C:\\Users\\Cesar-PC\\Desktop\\GIT\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.csproj",
+      "projectPath": "C:\\Users\\Cesar-PC\\source\\repos\\cesar12p\\SSHApp\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.csproj",
       "packagesPath": "C:\\Users\\Cesar-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cesar-PC\\Desktop\\GIT\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion\\obj\\",
+      "outputPath": "C:\\Users\\Cesar-PC\\source\\repos\\cesar12p\\SSHApp\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

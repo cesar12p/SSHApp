@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cesar-PC\\Desktop\\GIT\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.iOS\\SSHAplicacion.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Cesar-PC\\source\\repos\\cesar12p\\SSHApp\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.iOS\\SSHAplicacion.iOS.csproj",
       "projectName": "SSHAplicacion.iOS",
-      "projectPath": "C:\\Users\\Cesar-PC\\Desktop\\GIT\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.iOS\\SSHAplicacion.iOS.csproj",
+      "projectPath": "C:\\Users\\Cesar-PC\\source\\repos\\cesar12p\\SSHApp\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.iOS\\SSHAplicacion.iOS.csproj",
       "packagesPath": "C:\\Users\\Cesar-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cesar-PC\\Desktop\\GIT\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Cesar-PC\\source\\repos\\cesar12p\\SSHApp\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Cesar-PC\\Desktop\\GIT\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.csproj": {
-              "projectPath": "C:\\Users\\Cesar-PC\\Desktop\\GIT\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.csproj"
+            "C:\\Users\\Cesar-PC\\source\\repos\\cesar12p\\SSHApp\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.csproj": {
+              "projectPath": "C:\\Users\\Cesar-PC\\source\\repos\\cesar12p\\SSHApp\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion\\SSHAplicacion.csproj"
             }
           }
         }
