@@ -39,6 +39,6 @@ C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAp
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\SSHAplicacion.csproj.CoreCompileInputs.cache
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\SSHAplicacion.AssemblyInfoInputs.cache
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\SSHAplicacion.AssemblyInfo.cs
-C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\SSHAplicacion.dll
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\SSHAplicacion.pdb
+C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\XamlC.stamp
