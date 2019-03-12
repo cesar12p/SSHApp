@@ -27,6 +27,9 @@ namespace SSHAplicacion
                 {
       
                     lstUsuarios.ItemsSource = res;
+                    
+                    
+                    
                 }
             }
             catch (Exception e1)
