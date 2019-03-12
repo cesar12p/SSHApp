@@ -15,6 +15,7 @@ namespace SSHAplicacion
 		public MonitorDeLuz ()
 		{
 			InitializeComponent ();
+            
 		}
 
         private void SF1_Toggled(object sender, ToggledEventArgs e)

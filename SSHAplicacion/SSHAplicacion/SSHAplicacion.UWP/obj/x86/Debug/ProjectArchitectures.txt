@@ -1,1 +1,1 @@
-C:\Users\Cesar-PC\Desktop\GIT\SSHAplicacion\SSHAplicacion\SSHAplicacion.UWP\SSHAplicacion.UWP.csproj;x86
+C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.UWP\SSHAplicacion.UWP.csproj;x86
