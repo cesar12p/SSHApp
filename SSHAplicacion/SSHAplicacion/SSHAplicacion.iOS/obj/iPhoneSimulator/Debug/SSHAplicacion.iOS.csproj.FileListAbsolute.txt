@@ -101,7 +101,6 @@ C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAp
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\bin\iPhoneSimulator\Debug\SSHAplicacion.dll
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\bin\iPhoneSimulator\Debug\SSHAplicacion.pdb
-C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\bin\iPhoneSimulator\Debug\SSHAplicacion.dll.mdb
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
@@ -114,3 +113,7 @@ C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAp
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\obj\iPhoneSimulator\Debug\SSHAplicacion.iOS.csproj.CopyComplete
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\obj\iPhoneSimulator\Debug\SSHAplicacion.iOS.exe
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\obj\iPhoneSimulator\Debug\SSHAplicacion.iOS.pdb
+C:\Users\Cesar-PC\Source\Repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Extensions.dll
+C:\Users\Cesar-PC\Source\Repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Primitives.dll
+C:\Users\Cesar-PC\Source\Repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\Cesar-PC\Source\Repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.pdb

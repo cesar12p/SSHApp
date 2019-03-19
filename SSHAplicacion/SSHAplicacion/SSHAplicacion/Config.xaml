@@ -2,11 +2,21 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SSHAplicacion.Config">
-    <ContentPage.Content>
+    
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout HorizontalOptions="Center">
+            <Button Text="Agregar"/>
+            <Button Text="Eliminar"/>
         </StackLayout>
-    </ContentPage.Content>
+        <ListView x:Name="listaUsuario">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Label Text="{Binding usuario}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            
+            
+        </ListView>
+    </StackLayout>
+   
 </ContentPage>

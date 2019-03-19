@@ -23,7 +23,6 @@ C:\Users\Cesar-PC\Desktop\GIT\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debu
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\bin\Debug\netstandard2.0\SSHAplicacion.deps.json
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\bin\Debug\netstandard2.0\SSHAplicacion.dll
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\bin\Debug\netstandard2.0\SSHAplicacion.pdb
-C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\SSHAplicacion.csprojAssemblyReference.cache
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\Agregar.xaml.g.cs
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\Config.xaml.g.cs
@@ -41,4 +40,5 @@ C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAp
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\SSHAplicacion.AssemblyInfo.cs
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\SSHAplicacion.dll
 C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\SSHAplicacion.pdb
-C:\Users\Cesar-PC\source\repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Cesar-PC\Source\Repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\SSHAplicacion.csprojAssemblyReference.cache
+C:\Users\Cesar-PC\Source\Repos\cesar12p\SSHApp\SSHAplicacion\SSHAplicacion\SSHAplicacion\obj\Debug\netstandard2.0\XamlC.stamp
